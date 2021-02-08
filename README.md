@@ -1,14 +1,26 @@
 # Image_processing
 
 
+# Usage
+
+Git clone or download the folder from git and install the following packages
+
+# Directory Structure
+
+
 # Installation
 
-### Install the extension with conda or pip:
+### Install the library with conda or pip:
 
-$ conda install tqdm
-$ conda install multiprocess
-$ conda install opencv=3.2.0
-$ conda install watchdog
-$ conda install argparse
+
+
+```sh
+$ pip install tqdm
+$ pip install multiprocess
+$ pip install opencv=3.2.0
+$ pip install watchdog
+$ pip install argparse
+
+```
 
 
