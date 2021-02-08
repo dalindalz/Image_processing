@@ -1,9 +1,9 @@
 # Image_processing
 
 
-#Installation
+# Installation
 
-###Install the extension with conda or pip:
+### Install the extension with conda or pip:
 
 $ conda install tqdm
 $ conda install multiprocess
