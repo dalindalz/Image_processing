@@ -3,11 +3,34 @@
 
 # Download
 
-Git clone or download the folder from git and install the following packages
+Git clone or download the folder from git 
+
+```
+
+git clone https://github.com/dalindalz/Image_processing.git
+
+```
+
 
 # Directory Structure
 
 Add a new folder called Data in the root folder and copy all the videos to the corresponding folder
+
+
+```
+├── dir1
+│   ├── file11.ext
+│   └── file12.ext
+├── dir2
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── dir3
+├── file_in_root.ext
+└── README.md
+
+
+```
 
 # Installation
 
