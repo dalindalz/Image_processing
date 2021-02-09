@@ -40,6 +40,7 @@ $ pip install multiprocess
 $ pip install opencv=3.2.0
 $ pip install watchdog
 $ pip install argparse
+$ pip install logging
 
 ```
 # Usage
