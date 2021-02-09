@@ -7,6 +7,17 @@ Git clone or download the folder from git and install the following packages
 
 # Directory Structure
 
+├── Image_processing
+    ├── file11.ext
+    └── file12.ext
+    
+├── dir2
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── dir3
+├── file_in_root.ext
+└── README.md
 
 # Installation
 
