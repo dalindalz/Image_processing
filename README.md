@@ -18,17 +18,13 @@ Add a new folder called Data in the root folder and copy all the videos to the c
 
 
 ```
-├── dir1
-│   ├── file11.ext
-│   └── file12.ext
-├── dir2
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
-├── dir3
-├── file_in_root.ext
-└── README.md
-
+├── Image_processing
+    ├── _init_.py
+    ├── config.py
+    ├── video_processing.py
+    ├── watch_folder.py
+    ├── README.md
+    ├── Data
 
 ```
 
