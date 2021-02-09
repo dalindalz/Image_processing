@@ -27,6 +27,7 @@ $ pip install argparse
 
 Once the packages are installed go to the folder and run the _init_.py file as follows
 
+```
 
 python _init_.py -r -g -s
 
@@ -34,5 +35,6 @@ python _init_.py -r -g -s
 -g -> Optional flag to greyscale the video
 -s -> Optional flag to Save the video
 
+```
 
 
